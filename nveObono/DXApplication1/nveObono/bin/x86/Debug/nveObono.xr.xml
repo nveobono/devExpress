@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="RequestedTheme" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="DevExpress.UI.Xaml.Layout.HamburgerMenu">
+      <RootProperty Name="Header" />
+      <RootProperty Name="WindowTitle" />
+      <RootProperty Name="HideMenuWhenActivePageItemNotFound" />
+      <RootProperty Name="Items" />
+      <RootProperty Name="BottomBarItems" />
+    </RootType>
+    <RootType FullName="DevExpress.UI.Xaml.Layout.HamburgerMenuNavigationButton">
+      <RootProperty Name="Content" />
+      <RootProperty Name="NavigationTargetType" />
+      <RootProperty Name="Icon" />
+      <RootProperty Name="Placement" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.FontIcon">
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Glyph" />
+    </RootType>
+    <RootType FullName="DevExpress.UI.Xaml.Layout.HamburgerMenuBottomBarNavigationButton">
+      <RootProperty Name="Placement" />
+      <RootProperty Name="NavigationTargetType" />
+      <RootProperty Name="Icon" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ToolTipService">
+      <RootMethod Name="GetToolTip" />
+      <RootMethod Name="SetToolTip" />
+    </RootType>
+    <RootType FullName="nveObono.HamburgerMenuPage" />
+    <RootType FullName="DevExpress.UI.Xaml.Layout.HeaderedPageContent">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Text" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="FontSize" />
+    </RootType>
+    <RootType FullName="nveObono.MainPage" />
+    <RootType FullName="nveObono.PageWithHeader" />
+    <RootType FullName="DevExpress.UI.Xaml.Layout.PivotPageContent">
+      <RootProperty Name="HeadersViewMode" />
+      <RootProperty Name="Items" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.PivotItem">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="nveObono.PageWithPivot" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="nveObono.SettingsPage" />
+  </Roots.RootTypes>
+</Roots>
